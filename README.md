@@ -5,6 +5,6 @@ This is a research compendium attempt to process empirical data related to amorp
 
 ## Helpfull ressources
 
-- <a href="https://medium.com/linkit-intecs/how-to-upload-large-files-to-github-repository-2b1e03723d2" target="blank">Upload large files to github</a>
+- <a href="https://medium.com/linkit-intecs/how-to-upload-large-files-to-github-repository-2b1e03723d2" target="_blank">Upload large files to github</a>
 
 
