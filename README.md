@@ -11,3 +11,9 @@ This is a research compendium attempt to process empirical data related to amorp
 
 - Handle the presence of Nan value in post name construction
 - create a DR2/DR3 button within matplotlib window 
+
+## Problems to solve
+
+- Impossible to open DR2.zip on Binder --> Need to create a DR2 final version and host it on ORDO (?) and subsequently call it within the notebook in a Post-build file.
+<ul><a href="https://github.com/binder-examples/getting-data" target="_blank"> Adding data to binder options</a></ul>
+
