@@ -14,6 +14,6 @@ This is a research compendium attempt to process empirical data related to amorp
 
 ## Problems to solve
 
-- Impossible to open DR2.zip on Binder --> Need to create a DR2 final version and host it on ORDO (?) and subsequently call it within the notebook in a Post-build file.
+- Impossible to open DR2.zip on Binder --> Need to create a DR2 final version and host it on <a href="https://ordo.open.ac.uk/" target="_blank"> ORDO</a> (?) and subsequently call it within the notebook in a Post-build file.
 <ul><a href="https://github.com/binder-examples/getting-data" target="_blank"> Adding data to binder options</a></ul>
 
