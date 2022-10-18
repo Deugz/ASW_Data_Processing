@@ -1,3 +1,4 @@
+JLab >=2.0.0
 ipympl==0.7.0
 ipywidgets==7.6.3
 pandas==1.0.5
